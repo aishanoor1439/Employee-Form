@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.exe.config
+C:\Users\DELL\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.exe
+C:\Users\DELL\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.pdb
+C:\Users\DELL\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.exe
+C:\Users\DELL\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.pdb
